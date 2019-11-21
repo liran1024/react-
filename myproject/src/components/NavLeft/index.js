@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.less'
-import { Menu, Icon} from 'antd';
+import { Menu} from 'antd';
 import menuList from './../../config/menuConfig'
 const { SubMenu } = Menu;
 export default class NavLeft extends React.Component {
